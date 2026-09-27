@@ -1,0 +1,25 @@
+CURSOR AI PROMPTS USED
+
+PROMPT 1 — BUILD THE ASSIGNMENT
+Build a simple Personal Expense Tracker using HTML, CSS and JavaScript.
+
+Requirements:
+- Create a clean, modern and responsive interface.
+- Add a form with Expense Title, Amount and Category.
+- Display all expenses in a clean table/list.
+- Add Add, Edit and Delete Expense functionality.
+- Show Total Expenses dynamically.
+- Use at least one SVG icon in the interface.
+- Store expenses in localStorage so the data remains after refresh.
+- Keep the code simple and organized into index.html, style.css and script.js.
+- Make the UI professional and mobile responsive.
+- Use Pakistani Rupees (Rs) for amounts.
+
+PROMPT 2 — IMPROVEMENT 1
+Improve the Expense Tracker by adding a search box and category filter. Users should be able to search expenses by title/category and filter the table by category. Keep the existing Add, Edit, Delete and Total Expenses functionality working.
+
+PROMPT 3 — IMPROVEMENT 2
+Make two practical improvements to the Expense Tracker:
+1. Add an Export CSV button that downloads all saved expenses as a CSV file.
+2. Add a light/dark mode toggle and save the selected theme in localStorage.
+Keep the design clean and responsive and do not break existing functionality.
